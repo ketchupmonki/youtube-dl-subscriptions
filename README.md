@@ -1,6 +1,7 @@
 # youtube-dl-subscriptions
 
 Downloads all new videos from your YouTube subscription feeds.
+ This fork prefixes the video file names with the video's upload date and sorts videos into directories named after the corresponding uploader's channel name.
 
 
 ## Requirements
@@ -12,7 +13,7 @@ This script requires python3. Additional dependencies can be found in the `requi
 
 Clone the repository
 
-    git clone https://github.com/mewfree/youtube-dl-subscriptions
+    git clone https://github.com/ketchupmonki/youtube-dl-subscriptions
 
 Install the requirements
 
